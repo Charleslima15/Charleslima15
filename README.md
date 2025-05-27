@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a final-year Computer Engineering student with a passion for building real-world software — especially in health tech, education, and community finance systems.<br><br>I love working with:<br><br>🐍 Python & Django<br>⚛️ React / React Native<br>🧠 AI + Automation<br>🛠 Node.js, CLI tools, APIs<br><br>What I’m Working On : <br>Mastering Django + REST APIs<br>Building full-stack portfolio projects<br>Exploring AI model integrations<br>Applying for remote roles 🌍<br>
+# 👋 Hi, I'm Charles Lima<br><br>I'm a Software Engineer with a passion for building real-world software — especially in health tech, education, and community finance systems.
 
 
 ## 🌐 Socials:
@@ -16,6 +16,15 @@ I'm a final-year Computer Engineering student with a passion for building real-w
 ![](https://github-profile-trophy.vercel.app/?username=Charleslima15&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Charleslima15&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Charleslima15&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
